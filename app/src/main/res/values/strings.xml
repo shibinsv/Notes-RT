@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Notes-RT</string>
+    <string name="add_note">Add Note</string>
+    <string name="note_title">Note Title</string>
+    <string name="note">Note</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="proceed_delete">Are you sure you want to delete this note??</string>
+    <string name="delete_note">Delete Note</string>
+    <string name="delete">Delete</string>
+    <string name="edit_note">Edit Note</string>
+    <string name="edit">Edit</string>
+    <string name="add">Add\n</string>
+    <string name="try_again">An error occurred, Try again later</string>
+    <string name="data_updated">Data has been updated successfully</string>
+    <string name="note_deleted">Note deleted successfully</string>
+    <string name="no_notes">There are no notes added yet</string>
+    <string name="fetch_notes">We are fetching, your notes, please wait</string>
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "969281155157",
+    "firebase_url": "https://notes-rt-f87bb-default-rtdb.firebaseio.com",
+    "project_id": "notes-rt-f87bb",
+    "storage_bucket": "notes-rt-f87bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969281155157:android:13140eb53fd08dbd8164dc",
+        "android_client_info": {
+          "package_name": "com.calibraint.notes_rt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969281155157-2a13b0lkd6k1lro5sfvvh8sujprgfo7l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_NCTysxPP3KNooVmGPRUVGCD-Lk2QrQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969281155157-2a13b0lkd6k1lro5sfvvh8sujprgfo7l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
